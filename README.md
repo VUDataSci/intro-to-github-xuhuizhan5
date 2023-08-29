@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+I have read the following:
 
 ## 🤓 Course overview and learning outcomes 
 
